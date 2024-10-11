@@ -25,3 +25,8 @@ body {
     text-wrap: balance;
   }
 }
+
+.image{
+  min-width: 500px;
+  min-height: 500px;
+}
